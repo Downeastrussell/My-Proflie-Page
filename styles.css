@@ -1,0 +1,33 @@
+
+body{
+    background-color: #494949;
+    font-color: #f4c20c;
+}
+
+
+.main-header{
+    text-align: center;
+    font-size: 35vw 35vh;
+    background-color: green;
+}
+
+h1, h2{
+    font-family: 'Unlock', cursive;
+    text-align: center;
+    font-size: 2em;
+}
+
+h3{
+    font-family: 'Unlock', cursive;
+    font-family: 'Charmonman', cursive;
+    background-color: green; 
+    text-align: center;
+}
+
+aside{
+    font-size: 1em;
+}
+
+footer{
+    text-align: center;
+}
